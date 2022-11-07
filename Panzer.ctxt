@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Panzer
+comment0.text=\r\n\ @author\ Jan\ Allewelt\ &\ Lenujan\ Baskaran\r\n\ @version\ 1\ \r\n
+comment1.params=
+comment1.target=Panzer()
+comment2.params=
+comment2.target=int\ getShotsFired()
+comment3.params=reloadTime
+comment3.target=void\ setGunReloadTime(int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

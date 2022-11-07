@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bar
+comment0.text=\r\n\ @author\ Jan\ Allewelt\ &\ Lenujan\ Baskaran\r\n\ @version\ 1\ \r\n
+comment1.params=
+comment1.target=Bar()
+comment2.params=amount
+comment2.target=void\ bumpCount(int)
+comment3.params=amount
+comment3.target=void\ removeLive(int)
+comment4.params=
+comment4.target=int\ getCounter()
+comment5.params=
+comment5.target=int\ getLive()
+comment6.params=
+comment6.target=void\ updateImage()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ @author\ Jan\ Allewelt\ &\ Lenujan\ Baskaran\r\n\ @version\ 1\ \r\n
+comment1.params=toRight\ bulletSpeed
+comment1.target=Bullet(boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
